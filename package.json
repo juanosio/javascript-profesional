@@ -1,0 +1,14 @@
+{
+  "name": "profesional-dev",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[DCurso profesional de JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Osio",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}

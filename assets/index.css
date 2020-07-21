@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;1,400;1,700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;1,400;1,700&display=swap");
 
 * {
 	-webkit-font-smoothing: antialiased;
@@ -43,7 +43,6 @@ main {
 	padding-right: 8px;
 	background: white;
 	width: 80%;
-
 	position: absolute;
 	bottom: 20px;
 	left: 50%;
